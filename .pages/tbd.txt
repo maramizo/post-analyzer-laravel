@@ -1,0 +1,8 @@
+Homepage (Hey! You have no profiles done yet, would you like to EXPLORE or CREATE?)
+Profile creation page
+Add messages modal
+back-end API
+Profile view page (edit quotes/pages component)
+Users page
+Edit profiles
+Edit users
