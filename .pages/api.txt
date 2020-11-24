@@ -1,0 +1,7 @@
+https://en.wikiquote.org/wiki/?curid=298
+https://en.wikiquote.org/w/api.php?action=query&prop=info&pageids=298&inprop=url
+https://en.wikiquote.org/w/api.php?action=query&list=search&srnamespace=0&srprop=timestamp&prop=description&srsearch=intitle:nietzsche%20intitle:Friedrich
+
+((\\n\\n\*)|('''\\n\*)|(\\n\*(\s)*?'''))(.*?\\n\*\*)
+
+Load wikipedia using cURL instead of API. Remove UL/LI (first UL/LI contains quote, anything nested is garbage). Strip tags from UL/UI.
