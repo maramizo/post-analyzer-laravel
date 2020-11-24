@@ -36,4 +36,4 @@ Use:
 - Internal API optimization
 - Add more graphs
 
-(Project was done in a week)
+(Project was done in 5 days)
