@@ -21,8 +21,7 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 
 Download project files.
 Use:
-> npm i 
-> npm run dev
+> npm i && npm run dev
 
 
 
