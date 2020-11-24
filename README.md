@@ -12,9 +12,13 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 
 ## Screenshots of functionalities
 - Inline WikiQuotes Search
+
 ![WikiQuotes Search Results](https://i.imgur.com/ogd06b1.png)
+
 - Automatically Loaded Data
+
 ![Jimmy Carter's WikiQuotes Description](https://i.imgur.com/N9atIGG.png)
+
 - Personality Dimensions
 <img src="https://i.imgur.com/zX3zbzQ.png">
 
