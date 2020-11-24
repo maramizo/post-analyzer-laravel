@@ -11,7 +11,7 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 - [Charts loaded using ChartJS](https://www.chartjs.org/)
 
 ## Screenshots of functionalities
-- Personality Dimensions
+- Personality Dimensions 
 <img src="https://i.imgur.com/zX3zbzQ.png">
 
 - Quotes listing
