@@ -11,7 +11,11 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 - [Charts loaded using ChartJS](https://www.chartjs.org/)
 
 ## Screenshots of functionalities
-- Personality Dimensions 
+- Inline WikiQuotes Search
+![WikiQuotes Search Results](https://i.imgur.com/ogd06b1.png)
+- Automatically Loaded Data
+![Jimmy Carter's WikiQuotes Description](https://i.imgur.com/N9atIGG.png)
+- Personality Dimensions
 <img src="https://i.imgur.com/zX3zbzQ.png">
 
 - Quotes listing
@@ -21,7 +25,8 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 
 Download project files.
 Use:
-> npm i && npm run dev
+> npm i 
+> npm run dev
 
 
 
@@ -36,4 +41,4 @@ Use:
 - Internal API optimization
 - Add more graphs
 
-(Project was done in 5 days)
+(Project was done in a week)
