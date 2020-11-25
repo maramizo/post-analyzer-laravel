@@ -29,9 +29,9 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 
 Download project files.
 Laravel: 
-> php artisan serve
-
 > php artisan migrate
+
+> php artisan serve
 
 Node:
 > npm i
