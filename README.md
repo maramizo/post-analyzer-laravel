@@ -10,6 +10,8 @@ PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create
 - [View data using VueJS](https://vuejs.org/)
 - [Charts loaded using ChartJS](https://www.chartjs.org/)
 
+This project leverages Laravel's Auth functionality to register and authenticate + authorize users.
+
 ## Screenshots of functionalities
 - Inline WikiQuotes Search
 
