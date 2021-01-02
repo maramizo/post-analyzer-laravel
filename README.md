@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A1vS33L.png" width="400"></p>
 
-## About PostAnalyzer
+## About PostAnalyzer (DISCONTINUED)
 PostAnalyzer is a tweet and quote fetcher, designed to easily and quickly create profiles of celebrities, and analyze their personality type using IBM's Personality Insights, in simple steps:
 
 - [Load profile from Wikipedia](http://wikipedia.com/)
@@ -53,4 +53,4 @@ Node:
 - Internal API optimization
 - Add more graphs
 
-(Project was done in 5 days)
+This project is discontinued. It will receive no further support. This was a proof of concept for social media analysis integrations available with CRM software.
